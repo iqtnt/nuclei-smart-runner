@@ -17,7 +17,7 @@ A smart and resume-safe Nuclei automation tool designed for Bug Bounty hunters.
 - nuclei
 - notify
 
-## Install 
+## 🌍 Install 
 ```bash
 git clone https://github.com/iqtnt/nuclei-smart-runner.git
 cd nuclei-smart-runner
