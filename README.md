@@ -26,5 +26,5 @@ cd nuclei-smart-runner
 ## 🚀 Usage
 
 ```bash
-python nsr.py.py -l domains.txt -server xxxx.oast.online
+python nsr.py -l domains.txt -server xxxx.oast.online
 ```
